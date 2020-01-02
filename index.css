@@ -28,14 +28,14 @@ html,body {
 @media only screen and (max-device-width : 640px) {
 	.profile-picture {
 		border-radius: 50%;
-		width: 25%;
-		height: 25%;
+		width: 50%;
+		height: 50%;
 	}
 
 	.name {
 		font-family: 'Montserrat', sans-serif;
 		margin-bottom: 2px;
-		font-size: 20px;
+		font-size: 15px;
 		background-color: red;
 	}
 
@@ -48,14 +48,14 @@ html,body {
 @media only screen and (max-device-width: 768px) {
 	.profile-picture {
 		border-radius: 50%;
-		width: 25%;
-		height: 25%;
+		width: 50%;
+		height: 50%;
 	}
 
 	.name {
 		font-family: 'Montserrat', sans-serif;
 		margin-bottom: 2px;
-		font-size: 20px;
+		font-size: 15px;
 		background-color: red;
 	}
 
