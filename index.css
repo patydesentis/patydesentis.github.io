@@ -3,6 +3,10 @@ html,body {
 	font-family: 'Raleway', sans-serif;
 }
 
+#main-content {
+	align-items: center;
+}
+
 #left {
 	align-items: center;
 	display: flex;
@@ -53,4 +57,13 @@ html,body {
 
 .social-links-pics:hover{
 	background-color: rgba(255, 0, 255, 0.1);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: right;
 }
