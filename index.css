@@ -3,6 +3,10 @@ html,body {
 	font-family: 'Raleway', sans-serif;
 }
 
+#main-content {
+	align-items: center;
+}
+
 #left {
 	align-items: center;
 	display: flex;
