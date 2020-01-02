@@ -23,20 +23,33 @@ html, body {
 	height: 80%;
 }
 
-.leftside, .rightside {
+/*.leftside, .rightside {
 	margin: 5px;
-	max-width: 50%;
+	width: 50%;
 	flex: 1;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-
-}
+	float: left;
+}*/
 
 .leftside {
-	align-items: center;
+	/*margin: 5px;
+	width: 50%;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
 	justify-content: center;
+	float: left;*/
+	background-color: pink;
+	display: table;
+/*	align-items: center;
+	justify-content: center;*/
 }
+/*
+.rightside {
+	background-color: blue;
+}*/
 
 .name {
 	font-family: 'Montserrat', sans-serif;
