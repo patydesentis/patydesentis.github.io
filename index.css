@@ -36,10 +36,12 @@ html,body {
 		font-family: 'Montserrat', sans-serif;
 		margin-bottom: 2px;
 		font-size: 20px;
+		background-color: red;
 	}
 
 	.description {
 		font-size: 10px;
+		background-color: red;
 	}
 }
 
@@ -54,10 +56,12 @@ html,body {
 		font-family: 'Montserrat', sans-serif;
 		margin-bottom: 2px;
 		font-size: 20px;
+		background-color: red;
 	}
 
 	.description {
 		font-size: 10px;
+		background-color: red;
 	}
 }
 
