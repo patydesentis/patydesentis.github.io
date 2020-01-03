@@ -85,10 +85,6 @@ html,body {
 	text-decoration: none;
 	padding: 4px;
 }
-/*
-.social-links a:hover {
-	background-color: rgba(0, 0, 0, 0.1);
-}*/
 
 .social-links-pics {
 	width: 25px;
@@ -106,4 +102,8 @@ html,body {
 	width: 100%;
 	color: white;
 	text-align: right;
+}
+
+.nombre {
+	font-size: 20px;
 }
