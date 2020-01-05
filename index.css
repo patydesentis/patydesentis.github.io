@@ -107,3 +107,30 @@ html,body {
 .nombre {
 	font-size: 20px;
 }
+
+.content {
+	padding: 0% 10%;
+}
+
+.project-title {
+	padding: 3% 10%;
+}
+
+.pictures {
+	padding-bottom: 3%;
+}
+
+.subtitle {
+	font-weight: bold;
+}
+
+.pic {
+	width: 400px;
+	height: 300px;
+	padding: 10%;
+}
+
+.section-subtitle {
+	font-weight: bold;
+	font-size: 120%;
+}
