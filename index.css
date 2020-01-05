@@ -104,7 +104,7 @@ html,body {
 	text-align: right;
 }
 
-.nombre {
+.name {
 	font-size: 20px;
 }
 
@@ -130,7 +130,43 @@ html,body {
 	padding: 10%;
 }
 
+.vertical-pic {
+	width: 300px;
+	height: 400px;
+	padding: 10%;
+}
+
+.mobile-pic {
+	width: 300px;
+	height: 533px;
+	padding: 10%;
+}
+
 .section-subtitle {
 	font-weight: bold;
 	font-size: 120%;
+}
+
+.img-grid {
+	width: 650px;
+	height: 350px;
+}
+
+.logo {
+	width: 150;
+	height: 70px;
+}
+
+.column {
+	width: 7px;
+}
+
+.insights-table {
+	width: 20%;
+	text-align: center;
+	font-weight: bold;
+}
+
+.apa-table {
+	padding: 3%;
 }
