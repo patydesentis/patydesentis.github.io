@@ -188,3 +188,7 @@ html,body {
 	display: block;
 	padding-bottom: 5%;
 }
+
+.navbar-name {
+	font-size: 20px;
+}
