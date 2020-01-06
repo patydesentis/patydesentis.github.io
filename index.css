@@ -32,6 +32,13 @@ html,body {
 		height: 100%;
 	}
 
+	.name {
+		font-family: 'Montserrat', sans-serif;
+		margin-bottom: 2px;
+		font-size: 15px;
+		text-align-last: left;
+	}
+
 	.description {
 		font-size: 10px;
 	}
@@ -44,9 +51,22 @@ html,body {
 		height: 100%;
 	}
 
+	.name {
+		font-family: 'Montserrat', sans-serif;
+		margin-bottom: 2px;
+		font-size: 15px;
+	}
+
 	.description {
 		font-size: 10px;
 	}
+}
+
+.name {
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 2px;
+	font-size: 40px;
+	font-weight: bold;
 }
 
 .description {
@@ -84,10 +104,6 @@ html,body {
 	width: 100%;
 	color: white;
 	text-align: right;
-}
-
-.name {
-	font-size: 20px;
 }
 
 .content {
